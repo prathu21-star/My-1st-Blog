@@ -30,7 +30,7 @@
 
 ## Demo
 
-A live demo of "My 1st Blog" can be found at [[Demo Link] http://127.0.0.1:8000/
+A live demo of "My 1st Blog" can be found at  http://127.0.0.1:8000/
 
 ## Installation
 
