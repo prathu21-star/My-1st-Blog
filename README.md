@@ -1,6 +1,6 @@
 # My 1st Blog
 
-http://127.0.0.1:8000/
+
 
 
 ![Screenshot 2023-07-23 155846](https://github.com/prathu21-star/My-1st-Blog/assets/91003319/e21adf29-ac64-4e1d-ba41-3f98fcd6e41e)
@@ -30,7 +30,7 @@ http://127.0.0.1:8000/
 
 ## Demo
 
-A live demo of "My 1st Blog" can be found at [Demo Link](link_to_demo).
+A live demo of "My 1st Blog" can be found at [Demo Link]([link_to_demo](http://127.0.0.1:8000/)).
 
 ## Installation
 
