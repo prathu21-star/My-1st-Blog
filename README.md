@@ -15,7 +15,6 @@
 ## Table of Contents
 
 - [Features](#features)
-- [Demo](#demo)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
@@ -28,9 +27,6 @@
 - Admin dashboard for managing blog posts and user accounts.
 - Supports Markdown for formatting blog post content.
 
-## Demo
-
-A live demo of "My 1st Blog" can be found at http://127.0.0.1:8000/
 
 
 ## Installation
